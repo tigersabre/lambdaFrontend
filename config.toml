@@ -2,4 +2,5 @@ baseURL = ""
 languageCode = "en-us"
 title = "AWS Lambda - Serverless"
 theme = "ananke"
+[params.lambdaComments]
 endpoint = "https://xh1x8vcy4g.execute-api.us-east-2.amazonaws.com/Prod/comments/"
